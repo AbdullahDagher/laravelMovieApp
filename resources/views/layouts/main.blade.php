@@ -6,6 +6,7 @@
     <title>Movie App</title>
 
     <link rel="stylesheet" href="/css/main.css">
+<link rel="icon" href="/img/icon.png" type="image/icon type">
     <livewire:styles>
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 </head>
